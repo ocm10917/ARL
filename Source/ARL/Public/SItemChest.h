@@ -5,7 +5,6 @@
 #include "CoreMinimal.h"
 #include "SGameplayInterface.h"
 #include "GameFramework/Actor.h"
-#include "SGameplayInterface.h"
 #include "SItemChest.generated.h"
 
 class UStaticMeshComponent;
